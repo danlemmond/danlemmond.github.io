@@ -199,10 +199,7 @@ Move static content to static Jekyll has a rule that any directory not starting 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/tags/</guid>
-      <description>Tag Cloud widget. widget = &amp;ldquo;tag_cloud&amp;rdquo; active = true date = 2017-09-20
-title = &amp;ldquo;Tags&amp;rdquo; subtitle = &amp;ldquo;&amp;rdquo;
-Order that this section will appear in. weight = 65
-+++ &amp;ndash;&amp;gt;</description>
+      <description></description>
     </item>
     
     <item>
