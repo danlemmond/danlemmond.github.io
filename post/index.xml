@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on DAN LEMMOND</title>
-    <link>/post/</link>
+    <link>https://www.danlemmond.com/post/</link>
     <description>Recent content in Posts on DAN LEMMOND</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
