@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>/home/talks/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/home/posts/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
@@ -35,6 +40,11 @@
   <url>
     <loc>/home/teaching/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/home/tags/</loc>
+    <lastmod>2017-09-20T00:00:00-06:00</lastmod>
   </url>
   
   <url>
@@ -115,14 +125,6 @@
   <url>
     <loc>/publication/clothing-search/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/home/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/home/talks/</loc>
   </url>
   
   <url>

@@ -51,6 +51,15 @@ Outside of class and the lab, I spend most of my time doing research into audio 
     </item>
     
     <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recent Posts</title>
       <link>/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -80,35 +89,21 @@ I am a teaching instructor for the following courses at University X:
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>Tags</title>
       <link>/home/tags/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
       
       <guid>/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>/home/talks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/talks/</guid>
-      <description>Recent and Upcoming Talks widget. widget = &amp;ldquo;talks&amp;rdquo; active = true date = &amp;ldquo;2016-04-20T00:00:00&amp;rdquo;
-title = &amp;ldquo;Recent &amp;amp; Upcoming Talks&amp;rdquo; subtitle = &amp;ldquo;&amp;rdquo;
-Order that this section will appear in. weight = 30
-Number of talks to list. count = 10
-List format. 0 = Simple 1 = Detailed list_format = 0
-+++ &amp;ndash;&amp;gt;</description>
+      <guid>/home/contact/</guid>
+      <description></description>
     </item>
     
   </channel>
