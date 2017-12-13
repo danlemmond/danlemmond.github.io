@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Dan Lemmond</title>
-    <link>https://www.danlemmond.com/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Dan Lemmond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
